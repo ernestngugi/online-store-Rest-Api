@@ -1,0 +1,11 @@
+.idea
+*.pyc
+*.cmd
+docs/_build
+phpunit.xml
+vendor/
+composer.lock
+tmp
+pmip
+webroot/coverage
+.php_cs.cache

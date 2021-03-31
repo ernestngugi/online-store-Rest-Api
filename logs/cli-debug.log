@@ -1,0 +1,276 @@
+2020-02-07 08:46:56 Notice: Deprecated (16384): RouteBuilder::extensions() is deprecated. Use RouteBuilder::setExtensions()/getExtensions() instead. - C:\xampp\htdocs\bluesky\config\routes.php, line: 108
+ You can disable deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED` in your config/app.php. in [C:\xampp\htdocs\bluesky\vendor\cakephp\cakephp\src\Core\functions.php, line 311]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 168
+deprecationWarning - CORE\src\Core\functions.php, line 311
+Cake\Routing\RouteBuilder::extensions() - CORE\src\Routing\RouteBuilder.php, line 201
+Cake\Http\BaseApplication::{closure}() - ROOT\config\routes.php, line 108
+Cake\Routing\RouteBuilder::scope() - CORE\src\Routing\RouteBuilder.php, line 1008
+Cake\Routing\Router::scope() - CORE\src\Routing\Router.php, line 1100
+Cake\Routing\Router::prefix() - CORE\src\Routing\Router.php, line 1142
+require - ROOT\config\routes.php, line 112
+Cake\Http\BaseApplication::routes() - CORE\src\Http\BaseApplication.php, line 178
+Cake\Console\CommandRunner::loadRoutes() - CORE\src\Console\CommandRunner.php, line 420
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 146
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2020-02-07 08:47:45 Notice: Deprecated (16384): RouteBuilder::extensions() is deprecated. Use RouteBuilder::setExtensions()/getExtensions() instead. - C:\xampp\htdocs\bluesky\config\routes.php, line: 108
+ You can disable deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED` in your config/app.php. in [C:\xampp\htdocs\bluesky\vendor\cakephp\cakephp\src\Core\functions.php, line 311]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 168
+deprecationWarning - CORE\src\Core\functions.php, line 311
+Cake\Routing\RouteBuilder::extensions() - CORE\src\Routing\RouteBuilder.php, line 201
+Cake\Http\BaseApplication::{closure}() - ROOT\config\routes.php, line 108
+Cake\Routing\RouteBuilder::scope() - CORE\src\Routing\RouteBuilder.php, line 1008
+Cake\Routing\Router::scope() - CORE\src\Routing\Router.php, line 1100
+Cake\Routing\Router::prefix() - CORE\src\Routing\Router.php, line 1142
+require - ROOT\config\routes.php, line 112
+Cake\Http\BaseApplication::routes() - CORE\src\Http\BaseApplication.php, line 178
+Cake\Console\CommandRunner::loadRoutes() - CORE\src\Console\CommandRunner.php, line 420
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 146
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2020-02-07 08:48:08 Notice: Deprecated (16384): RouteBuilder::extensions() is deprecated. Use RouteBuilder::setExtensions()/getExtensions() instead. - C:\xampp\htdocs\bluesky\config\routes.php, line: 108
+ You can disable deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED` in your config/app.php. in [C:\xampp\htdocs\bluesky\vendor\cakephp\cakephp\src\Core\functions.php, line 311]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 168
+deprecationWarning - CORE\src\Core\functions.php, line 311
+Cake\Routing\RouteBuilder::extensions() - CORE\src\Routing\RouteBuilder.php, line 201
+Cake\Http\BaseApplication::{closure}() - ROOT\config\routes.php, line 108
+Cake\Routing\RouteBuilder::scope() - CORE\src\Routing\RouteBuilder.php, line 1008
+Cake\Routing\Router::scope() - CORE\src\Routing\Router.php, line 1100
+Cake\Routing\Router::prefix() - CORE\src\Routing\Router.php, line 1142
+require - ROOT\config\routes.php, line 112
+Cake\Http\BaseApplication::routes() - CORE\src\Http\BaseApplication.php, line 178
+Cake\Console\CommandRunner::loadRoutes() - CORE\src\Console\CommandRunner.php, line 420
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 146
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2020-02-07 08:48:43 Notice: Deprecated (16384): RouteBuilder::extensions() is deprecated. Use RouteBuilder::setExtensions()/getExtensions() instead. - C:\xampp\htdocs\bluesky\config\routes.php, line: 108
+ You can disable deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED` in your config/app.php. in [C:\xampp\htdocs\bluesky\vendor\cakephp\cakephp\src\Core\functions.php, line 311]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 168
+deprecationWarning - CORE\src\Core\functions.php, line 311
+Cake\Routing\RouteBuilder::extensions() - CORE\src\Routing\RouteBuilder.php, line 201
+Cake\Http\BaseApplication::{closure}() - ROOT\config\routes.php, line 108
+Cake\Routing\RouteBuilder::scope() - CORE\src\Routing\RouteBuilder.php, line 1008
+Cake\Routing\Router::scope() - CORE\src\Routing\Router.php, line 1100
+Cake\Routing\Router::prefix() - CORE\src\Routing\Router.php, line 1142
+require - ROOT\config\routes.php, line 112
+Cake\Http\BaseApplication::routes() - CORE\src\Http\BaseApplication.php, line 178
+Cake\Console\CommandRunner::loadRoutes() - CORE\src\Console\CommandRunner.php, line 420
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 146
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2020-02-07 12:52:17 Notice: Deprecated (16384): RouteBuilder::extensions() is deprecated. Use RouteBuilder::setExtensions()/getExtensions() instead. - C:\xampp\htdocs\bluesky\config\routes.php, line: 108
+ You can disable deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED` in your config/app.php. in [C:\xampp\htdocs\bluesky\vendor\cakephp\cakephp\src\Core\functions.php, line 311]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 168
+deprecationWarning - CORE\src\Core\functions.php, line 311
+Cake\Routing\RouteBuilder::extensions() - CORE\src\Routing\RouteBuilder.php, line 201
+Cake\Http\BaseApplication::{closure}() - ROOT\config\routes.php, line 108
+Cake\Routing\RouteBuilder::scope() - CORE\src\Routing\RouteBuilder.php, line 1008
+Cake\Routing\Router::scope() - CORE\src\Routing\Router.php, line 1100
+Cake\Routing\Router::prefix() - CORE\src\Routing\Router.php, line 1142
+require - ROOT\config\routes.php, line 121
+Cake\Http\BaseApplication::routes() - CORE\src\Http\BaseApplication.php, line 178
+Cake\Console\CommandRunner::loadRoutes() - CORE\src\Console\CommandRunner.php, line 420
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 146
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2020-02-07 12:52:17 Notice: Deprecated (16384): RouteBuilder::extensions() is deprecated. Use RouteBuilder::setExtensions()/getExtensions() instead. - C:\xampp\htdocs\bluesky\config\routes.php, line: 124
+ You can disable deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED` in your config/app.php. in [C:\xampp\htdocs\bluesky\vendor\cakephp\cakephp\src\Core\functions.php, line 311]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 168
+deprecationWarning - CORE\src\Core\functions.php, line 311
+Cake\Routing\RouteBuilder::extensions() - CORE\src\Routing\RouteBuilder.php, line 201
+Cake\Http\BaseApplication::{closure}() - ROOT\config\routes.php, line 124
+Cake\Routing\RouteBuilder::scope() - CORE\src\Routing\RouteBuilder.php, line 1008
+Cake\Routing\Router::scope() - CORE\src\Routing\Router.php, line 1100
+Cake\Routing\Router::prefix() - CORE\src\Routing\Router.php, line 1142
+require - ROOT\config\routes.php, line 128
+Cake\Http\BaseApplication::routes() - CORE\src\Http\BaseApplication.php, line 178
+Cake\Console\CommandRunner::loadRoutes() - CORE\src\Console\CommandRunner.php, line 420
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 146
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2020-02-07 21:06:58 Notice: Deprecated (16384): RouteBuilder::extensions() is deprecated. Use RouteBuilder::setExtensions()/getExtensions() instead. - C:\xampp\htdocs\bluesky\config\routes.php, line: 108
+ You can disable deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED` in your config/app.php. in [C:\xampp\htdocs\bluesky\vendor\cakephp\cakephp\src\Core\functions.php, line 311]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 168
+deprecationWarning - CORE\src\Core\functions.php, line 311
+Cake\Routing\RouteBuilder::extensions() - CORE\src\Routing\RouteBuilder.php, line 201
+Cake\Http\BaseApplication::{closure}() - ROOT\config\routes.php, line 108
+Cake\Routing\RouteBuilder::scope() - CORE\src\Routing\RouteBuilder.php, line 1008
+Cake\Routing\Router::scope() - CORE\src\Routing\Router.php, line 1100
+Cake\Routing\Router::prefix() - CORE\src\Routing\Router.php, line 1142
+require - ROOT\config\routes.php, line 121
+Cake\Http\BaseApplication::routes() - CORE\src\Http\BaseApplication.php, line 178
+Cake\Console\CommandRunner::loadRoutes() - CORE\src\Console\CommandRunner.php, line 420
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 146
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2020-02-07 21:06:58 Notice: Deprecated (16384): RouteBuilder::extensions() is deprecated. Use RouteBuilder::setExtensions()/getExtensions() instead. - C:\xampp\htdocs\bluesky\config\routes.php, line: 124
+ You can disable deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED` in your config/app.php. in [C:\xampp\htdocs\bluesky\vendor\cakephp\cakephp\src\Core\functions.php, line 311]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 168
+deprecationWarning - CORE\src\Core\functions.php, line 311
+Cake\Routing\RouteBuilder::extensions() - CORE\src\Routing\RouteBuilder.php, line 201
+Cake\Http\BaseApplication::{closure}() - ROOT\config\routes.php, line 124
+Cake\Routing\RouteBuilder::scope() - CORE\src\Routing\RouteBuilder.php, line 1008
+Cake\Routing\Router::scope() - CORE\src\Routing\Router.php, line 1100
+Cake\Routing\Router::prefix() - CORE\src\Routing\Router.php, line 1142
+require - ROOT\config\routes.php, line 128
+Cake\Http\BaseApplication::routes() - CORE\src\Http\BaseApplication.php, line 178
+Cake\Console\CommandRunner::loadRoutes() - CORE\src\Console\CommandRunner.php, line 420
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 146
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2020-02-07 21:07:02 Notice: Deprecated (16384): App\Model\Table\RstTblsubsourceitemqtyTable::primaryKey() is deprecated. Use setPrimaryKey()/getPrimaryKey() instead. - C:\xampp\htdocs\bluesky\src\Model\Table\RstTblsubsourceitemqtyTable.php, line: 35
+ You can disable deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED` in your config/app.php. in [C:\xampp\htdocs\bluesky\vendor\cakephp\cakephp\src\Core\functions.php, line 311]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 168
+deprecationWarning - CORE\src\Core\functions.php, line 311
+Cake\ORM\Table::primaryKey() - CORE\src\ORM\Table.php, line 705
+App\Model\Table\RstTblsubsourceitemqtyTable::initialize() - APP/Model\Table\RstTblsubsourceitemqtyTable.php, line 35
+Cake\ORM\Table::__construct() - CORE\src\ORM\Table.php, line 297
+Cake\ORM\Locator\TableLocator::_create() - CORE\src\ORM\Locator\TableLocator.php, line 293
+Cake\ORM\Locator\TableLocator::get() - CORE\src\ORM\Locator\TableLocator.php, line 249
+Bake\Shell\Task\ModelTask::getTableObject() - ROOT\vendor\cakephp\bake\src\Shell\Task\ModelTask.php, line 196
+Bake\Shell\Task\ModelTask::findHasMany() - ROOT\vendor\cakephp\bake\src\Shell\Task\ModelTask.php, line 415
+Bake\Shell\Task\ModelTask::getAssociations() - ROOT\vendor\cakephp\bake\src\Shell\Task\ModelTask.php, line 232
+Bake\Shell\Task\ModelTask::getTableContext() - ROOT\vendor\cakephp\bake\src\Shell\Task\ModelTask.php, line 131
+Bake\Shell\Task\ModelTask::bake() - ROOT\vendor\cakephp\bake\src\Shell\Task\ModelTask.php, line 114
+Bake\Shell\Task\ModelTask::main() - ROOT\vendor\cakephp\bake\src\Shell\Task\ModelTask.php, line 101
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 531
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 524
+Cake\Console\CommandRunner::runShell() - CORE\src\Console\CommandRunner.php, line 385
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 162
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2020-02-07 21:20:14 Notice: Deprecated (16384): RouteBuilder::extensions() is deprecated. Use RouteBuilder::setExtensions()/getExtensions() instead. - C:\xampp\htdocs\bluesky\config\routes.php, line: 108
+ You can disable deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED` in your config/app.php. in [C:\xampp\htdocs\bluesky\vendor\cakephp\cakephp\src\Core\functions.php, line 311]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 168
+deprecationWarning - CORE\src\Core\functions.php, line 311
+Cake\Routing\RouteBuilder::extensions() - CORE\src\Routing\RouteBuilder.php, line 201
+Cake\Http\BaseApplication::{closure}() - ROOT\config\routes.php, line 108
+Cake\Routing\RouteBuilder::scope() - CORE\src\Routing\RouteBuilder.php, line 1008
+Cake\Routing\Router::scope() - CORE\src\Routing\Router.php, line 1100
+Cake\Routing\Router::prefix() - CORE\src\Routing\Router.php, line 1142
+require - ROOT\config\routes.php, line 121
+Cake\Http\BaseApplication::routes() - CORE\src\Http\BaseApplication.php, line 178
+Cake\Console\CommandRunner::loadRoutes() - CORE\src\Console\CommandRunner.php, line 420
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 146
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2020-02-07 21:20:15 Notice: Deprecated (16384): RouteBuilder::extensions() is deprecated. Use RouteBuilder::setExtensions()/getExtensions() instead. - C:\xampp\htdocs\bluesky\config\routes.php, line: 124
+ You can disable deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED` in your config/app.php. in [C:\xampp\htdocs\bluesky\vendor\cakephp\cakephp\src\Core\functions.php, line 311]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 168
+deprecationWarning - CORE\src\Core\functions.php, line 311
+Cake\Routing\RouteBuilder::extensions() - CORE\src\Routing\RouteBuilder.php, line 201
+Cake\Http\BaseApplication::{closure}() - ROOT\config\routes.php, line 124
+Cake\Routing\RouteBuilder::scope() - CORE\src\Routing\RouteBuilder.php, line 1008
+Cake\Routing\Router::scope() - CORE\src\Routing\Router.php, line 1100
+Cake\Routing\Router::prefix() - CORE\src\Routing\Router.php, line 1142
+require - ROOT\config\routes.php, line 128
+Cake\Http\BaseApplication::routes() - CORE\src\Http\BaseApplication.php, line 178
+Cake\Console\CommandRunner::loadRoutes() - CORE\src\Console\CommandRunner.php, line 420
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 146
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2020-02-10 21:32:44 Notice: Deprecated (16384): RouteBuilder::extensions() is deprecated. Use RouteBuilder::setExtensions()/getExtensions() instead. - C:\xampp\htdocs\bluesky\config\routes.php, line: 108
+ You can disable deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED` in your config/app.php. in [C:\xampp\htdocs\bluesky\vendor\cakephp\cakephp\src\Core\functions.php, line 311]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 168
+deprecationWarning - CORE\src\Core\functions.php, line 311
+Cake\Routing\RouteBuilder::extensions() - CORE\src\Routing\RouteBuilder.php, line 201
+Cake\Http\BaseApplication::{closure}() - ROOT\config\routes.php, line 108
+Cake\Routing\RouteBuilder::scope() - CORE\src\Routing\RouteBuilder.php, line 1008
+Cake\Routing\Router::scope() - CORE\src\Routing\Router.php, line 1100
+Cake\Routing\Router::prefix() - CORE\src\Routing\Router.php, line 1142
+require - ROOT\config\routes.php, line 121
+Cake\Http\BaseApplication::routes() - CORE\src\Http\BaseApplication.php, line 178
+Cake\Console\CommandRunner::loadRoutes() - CORE\src\Console\CommandRunner.php, line 420
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 146
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2020-02-10 21:32:44 Notice: Deprecated (16384): RouteBuilder::extensions() is deprecated. Use RouteBuilder::setExtensions()/getExtensions() instead. - C:\xampp\htdocs\bluesky\config\routes.php, line: 124
+ You can disable deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED` in your config/app.php. in [C:\xampp\htdocs\bluesky\vendor\cakephp\cakephp\src\Core\functions.php, line 311]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 168
+deprecationWarning - CORE\src\Core\functions.php, line 311
+Cake\Routing\RouteBuilder::extensions() - CORE\src\Routing\RouteBuilder.php, line 201
+Cake\Http\BaseApplication::{closure}() - ROOT\config\routes.php, line 124
+Cake\Routing\RouteBuilder::scope() - CORE\src\Routing\RouteBuilder.php, line 1008
+Cake\Routing\Router::scope() - CORE\src\Routing\Router.php, line 1100
+Cake\Routing\Router::prefix() - CORE\src\Routing\Router.php, line 1142
+require - ROOT\config\routes.php, line 128
+Cake\Http\BaseApplication::routes() - CORE\src\Http\BaseApplication.php, line 178
+Cake\Console\CommandRunner::loadRoutes() - CORE\src\Console\CommandRunner.php, line 420
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 146
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2020-03-09 06:36:00 Notice: Deprecated (16384): RouteBuilder::extensions() is deprecated. Use RouteBuilder::setExtensions()/getExtensions() instead. - C:\xampp\htdocs\bluesky\config\routes.php, line: 114
+ You can disable deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED` in your config/app.php. in [C:\xampp\htdocs\bluesky\vendor\cakephp\cakephp\src\Core\functions.php, line 311]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 168
+deprecationWarning - CORE\src\Core\functions.php, line 311
+Cake\Routing\RouteBuilder::extensions() - CORE\src\Routing\RouteBuilder.php, line 201
+Cake\Http\BaseApplication::{closure}() - ROOT\config\routes.php, line 114
+Cake\Routing\RouteBuilder::scope() - CORE\src\Routing\RouteBuilder.php, line 1008
+Cake\Routing\Router::scope() - CORE\src\Routing\Router.php, line 1100
+Cake\Routing\Router::prefix() - CORE\src\Routing\Router.php, line 1142
+require - ROOT\config\routes.php, line 127
+Cake\Http\BaseApplication::routes() - CORE\src\Http\BaseApplication.php, line 178
+Cake\Console\CommandRunner::loadRoutes() - CORE\src\Console\CommandRunner.php, line 420
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 146
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2020-03-09 06:36:00 Notice: Deprecated (16384): RouteBuilder::extensions() is deprecated. Use RouteBuilder::setExtensions()/getExtensions() instead. - C:\xampp\htdocs\bluesky\config\routes.php, line: 130
+ You can disable deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED` in your config/app.php. in [C:\xampp\htdocs\bluesky\vendor\cakephp\cakephp\src\Core\functions.php, line 311]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 168
+deprecationWarning - CORE\src\Core\functions.php, line 311
+Cake\Routing\RouteBuilder::extensions() - CORE\src\Routing\RouteBuilder.php, line 201
+Cake\Http\BaseApplication::{closure}() - ROOT\config\routes.php, line 130
+Cake\Routing\RouteBuilder::scope() - CORE\src\Routing\RouteBuilder.php, line 1008
+Cake\Routing\Router::scope() - CORE\src\Routing\Router.php, line 1100
+Cake\Routing\Router::prefix() - CORE\src\Routing\Router.php, line 1142
+require - ROOT\config\routes.php, line 134
+Cake\Http\BaseApplication::routes() - CORE\src\Http\BaseApplication.php, line 178
+Cake\Console\CommandRunner::loadRoutes() - CORE\src\Console\CommandRunner.php, line 420
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 146
+[main] - ROOT\bin\cake.php, line 12
+
+
+
